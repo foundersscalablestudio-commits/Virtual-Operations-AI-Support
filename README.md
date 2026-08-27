@@ -1,3 +1,4 @@
+
 # Virtual Operations & AI Support
 
 Helping founders, small businesses, ecommerce brands, consultants, and digital teams organize operations, improve workflows, document processes, and keep important work moving forward.
@@ -51,20 +52,15 @@ AI may be used to support:
 
 AI-assisted work is reviewed before delivery. Human judgment and quality control remain part of the process.
 
-## Portfolio Examples
+## Portfolio Samples
 
-This repository may include examples of:
+Explore the portfolio examples below:
 
-- Standard Operating Procedures
-- Workflow documentation
-- Process maps
-- Quality-control frameworks
-- Customer support processes
-- Ecommerce operations documentation
-- AI-assisted workflow systems
-- Project organization templates
+- [Customer Support SOP Sample](customer-support-sop-sample.pdf)
+- [AI-Assisted Workflow Sample](ai-assisted-workflow-sample.pdf)
+- [Virtual Operations & AI Support Services Overview](virtual-operations-ai-support-services.pdf)
 
-Portfolio examples are created to demonstrate structure, process design, documentation, and operational thinking. Any fictional examples are identified as such and do not represent confidential client information.
+These samples demonstrate structure, process design, documentation, workflow thinking, and operational support capabilities. Any fictional examples are identified as such and do not represent confidential client information.
 
 ## Who I Work With
 
